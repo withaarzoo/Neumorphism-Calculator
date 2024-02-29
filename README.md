@@ -1,6 +1,6 @@
 # Neumorphism Calculator
 
-This repository contains the code for a simple neumorphism-styled calculator built using HTML, CSS, and JavaScript.
+This repository contains the code for a simple neumorphism-styled calculator built using HTML, CSS, and JavaScript .
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Neumorphism-Calculator/assets/59678435/89bcd627-307a-4c2f-8fbc-0cc1ece89210)
